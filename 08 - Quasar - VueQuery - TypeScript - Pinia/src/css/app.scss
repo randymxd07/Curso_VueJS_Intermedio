@@ -1,0 +1,23 @@
+// app global css in SCSS form
+h1 {
+  font-size: 25px;
+  margin: 0;
+}
+h2 {
+  font-size: 20px;
+  margin: 0;
+}
+
+cursor {
+  cursor: pointer;
+}
+
+a {
+  color: black;
+  font-size: 1.2rem;
+}
+
+
+blockquote, pre, code {
+  word-break: break-all !important;
+}
